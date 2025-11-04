@@ -3,10 +3,9 @@
 * Black Panter
 * Black Widow
 * Capitán America
-* Capitán Marvel
 * Falcon
 * Hank Pym
-*Hawkeye
+* Hawkeye
 * Hulk
 * Iron Mn
 * Luke Cage
